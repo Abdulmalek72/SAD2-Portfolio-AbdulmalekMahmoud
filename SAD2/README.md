@@ -23,7 +23,7 @@ SAD2-Portfolio-AbdulmalekMahmoud
 
 ## SAD2 Tasks
 The **SAD2** folder contains all course tasks, including:
-- UML diagrams (Use Case, Class, ERD, etc.)
+- UML diagrams
 - Improved system designs applying SOLID principles
 - Analysis of a runnable software project
 - Testing and evaluation tasks
