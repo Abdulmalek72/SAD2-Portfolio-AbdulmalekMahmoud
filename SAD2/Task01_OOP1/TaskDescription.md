@@ -1,4 +1,4 @@
-# Task – Class Diagram (Hospital Management System)
+# Task – Class Diagram with Code Implementation (Hospital Management System)
 
 The objective of this task is to create a class diagram for a Hospital Management System.
 
